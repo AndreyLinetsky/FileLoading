@@ -58,7 +58,6 @@
   <ItemGroup>
     <Compile Include="Extensions\DistinctExtensions.cs" />
     <Compile Include="HistoryLoaderManager.cs" />
-    <Compile Include="FileRows\InventoryHistoryFileRow.cs" />
     <Compile Include="Mappers\SkuMapper.cs" />
     <Compile Include="Mappers\InventoryHistoryMapper.cs" />
     <Compile Include="Mappers\StoreMapper.cs" />
