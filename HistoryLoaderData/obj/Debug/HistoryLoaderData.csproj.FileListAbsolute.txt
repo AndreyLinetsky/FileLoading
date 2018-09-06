@@ -1,0 +1,12 @@
+C:\Users\CV\source\repos\ExamProj\HistoryLoaderData\bin\Debug\HistoryLoaderData.dll.config
+C:\Users\CV\source\repos\ExamProj\HistoryLoaderData\bin\Debug\HistoryLoaderData.dll
+C:\Users\CV\source\repos\ExamProj\HistoryLoaderData\bin\Debug\HistoryLoaderData.pdb
+C:\Users\CV\source\repos\ExamProj\HistoryLoaderData\bin\Debug\EntityFramework.dll
+C:\Users\CV\source\repos\ExamProj\HistoryLoaderData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CV\source\repos\ExamProj\HistoryLoaderData\bin\Debug\EntityFramework.xml
+C:\Users\CV\source\repos\ExamProj\HistoryLoaderData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CV\source\repos\ExamProj\HistoryLoaderData\obj\Debug\HistoryLoaderData.csproj.CoreCompileInputs.cache
+C:\Users\CV\source\repos\ExamProj\HistoryLoaderData\obj\Debug\HistoryLoaderData.csproj.CopyComplete
+C:\Users\CV\source\repos\ExamProj\HistoryLoaderData\obj\Debug\HistoryLoaderData.dll
+C:\Users\CV\source\repos\ExamProj\HistoryLoaderData\obj\Debug\HistoryLoaderData.pdb
+C:\Users\CV\source\repos\ExamProj\HistoryLoaderData\obj\Debug\HistoryLoaderData.csprojAssemblyReference.cache
